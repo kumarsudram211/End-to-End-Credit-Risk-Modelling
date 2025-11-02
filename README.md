@@ -1,5 +1,3 @@
-# End-to-End-Credit-Risk-Modelling
-
 # 💳 Credit Risk Modeling
 
 ## 🧭 Project Overview
